@@ -44,7 +44,7 @@ To run any project in this repository:
 > ✍️ Assignments will be added here once uploaded.
 
 - 📁 Assignment 1 – Variables and Introduction program  
-- 📁 Assignment 2 – *Coming Soon*
+- 📁 Assignment 2 – Temperature Conversion, Rectangle Area, and Marks Program 
 - 📁 Assignment 3 – *Coming Soon*
 - 📁 Assignment 4 – *Coming Soon*
 - 📁 Assignment 5 – *Coming Soon*
