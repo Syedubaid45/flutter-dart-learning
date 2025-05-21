@@ -61,6 +61,8 @@ This project manages books, members, and transactions, with user authentication 
 3. Follow the prompts to login and use the system.
 
 ---
+---
+
 
 ## Usage
 
