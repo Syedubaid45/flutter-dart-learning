@@ -46,14 +46,9 @@ To run any project in this repository:
 - 📁 Assignment 1 – Variables and Introduction program  
 - 📁 Assignment 2 – Temperature Conversion, Rectangle Area, and Marks Program 
 - 📁 Assignment 3 – Conditional Statements
-- 📁 Assignment 4 – *Coming Soon*
-- 📁 Assignment 5 – *Coming Soon*
-- 📁 Assignment 6 – *Coming Soon*
-- 📁 Assignment 7 – *Coming Soon*
-- 📁 Assignment 8 – *Coming Soon*
-- 📁 Assignment 9 – *Coming Soon*
-- 📁 Assignment 10 – *Coming Soon*     
-- 📁 Project 1 – *Coming Soon*  
+- 📁 Assignment 4 – Working with Lists, Filtering Data, and Map Operations
+- 📁 Assignment 5 – Looping Constructs, Conditional Statements, and String/List Operations
+- 📁 Project 1 – Console Based Library Management System 
 
 ## 📄 License
 
