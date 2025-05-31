@@ -1,0 +1,6 @@
+name: library_management_system_console
+description: A console-based library management system
+version: 1.0.0
+
+environment:
+  sdk: ">=2.18.0 <3.0.0"

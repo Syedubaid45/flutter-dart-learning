@@ -21,19 +21,21 @@ This project manages books, members, and transactions, with user authentication 
 ## Project Structure
 
 ```
-/my_library_project/
+library_management_system_console/
 ├── bin/
 │   └── main.dart                 # Entry point of the console app
 ├── lib/
-│   ├── auth/
-│   │   └── user_authentication.dart   # Authentication logic
-│   ├── controllers/              # Business logic for books, members, transactions
-│   ├── models/                   # Data models for books, members, etc.
-│   ├── services/                 # Services like database or file I/O
-│   └── utils/                    # Helper utilities like fine calculator
-├── data/
-│   └── credentials.json          # Stores user credentials securely
+│   ├── models/                   # Data models (e.g., book.dart)
+│   │   └── book.dart
+│   ├── menus/                    # Menu interfaces for librarian, user, main
+│   │   ├── librarian_menu.dart
+│   │   ├── usermenu.dart
+│   │   └── main_menu.dart
+│   ├── user_auth.dart            # User authentication logic
+│   └── library.dart              # Core library logic
 ├── pubspec.yaml                  # Dart package configuration
+├── pubspec.lock                  # Package lock file for dependencies
+├── .dart_tool/                   # Dart tool files (auto-generated)
 └── README.md                     # Project documentation
 ```
 

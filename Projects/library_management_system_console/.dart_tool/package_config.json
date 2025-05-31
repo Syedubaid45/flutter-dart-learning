@@ -1,0 +1,17 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "library_management_system_console",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    }
+  ],
+  "generated": "2025-05-30T11:58:30.296232Z",
+  "generator": "pub",
+  "generatorVersion": "3.7.2",
+  "flutterRoot": "file:///C:/flutter",
+  "flutterVersion": "3.29.2",
+  "pubCache": "file:///C:/Users/Ubaid-UR-Rehman%20SHAH/AppData/Local/Pub/Cache"
+}
